@@ -9,8 +9,8 @@ function Home() {
 
   return (
     <div>
-        <a href={uri}>hi</a>
-      Home
+        티스토리 API 테스트
+        <a href={uri}>티스토리 로그인</a>
     </div>
   );
 }
